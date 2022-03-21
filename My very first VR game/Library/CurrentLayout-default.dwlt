@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 1
-  controlID: 349
+  controlID: 9501
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 350
+  controlID: 9502
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 233
+  controlID: 9535
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 259
+  controlID: 9509
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -453,9 +453,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.6895142, y: -2.8898687, z: -0.71773577}
+    m_Target: {x: -1.1195629, y: 1.6179644, z: -2.2995698}
     speed: 2
-    m_Value: {x: -2.6895142, y: -2.8898687, z: -0.71773577}
+    m_Value: {x: -1.1195629, y: 1.6179644, z: -2.2995698}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -502,9 +502,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.14980802, y: 0.81839544, z: -0.24672571, w: -0.49693048}
+    m_Target: {x: 0.34827426, y: 0.019671844, z: -0.007328226, w: 0.9371697}
     speed: 2
-    m_Value: {x: -0.14980601, y: 0.8183844, z: -0.24672239, w: -0.49692377}
+    m_Value: {x: 0.34825894, y: 0.021077339, z: -0.007850541, w: 0.9371285}
   m_Size:
     m_Target: 6.324333
     speed: 2
@@ -563,7 +563,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffff
+      m_ExpandedIDs: 6afbffff2c4e0000dc4e0000364f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -625,23 +625,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Packages/com.unity.xr.interaction.toolkit/Runtime/Locomotion
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Packages/com.unity.xr.interaction.toolkit/Runtime/Locomotion
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\micha\Desktop\Coding\Unity Games\VR-Game\My very first
     VR game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a510000
-    m_LastClickedID: 20842
-    m_ExpandedIDs: 000000006a5100006c5100006e51000070510000
+    scrollPos: {x: 0, y: 318}
+    m_SelectedIDs: 4c610000
+    m_LastClickedID: 24908
+    m_ExpandedIDs: 000000006a5100006c5100006e51000070510000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
