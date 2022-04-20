@@ -29,7 +29,7 @@ public class ContinuousMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Quaternion headYaw = Quaternion.Euler(0, rig.cameraGameObject.transform.eulerAngles.y, 0);
+        Quaternion headYaw = Quaternion.Euler(0, rig.Camera.transform.eulerAngles.y, 0);
         Vector2 direction = headYaw * new Vector3(inputAxis.x, 0, inputAxis.y);
 
         character.Move(direction * Time.fixedDeltaTime * speed);
