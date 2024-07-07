@@ -14,4 +14,8 @@ Users should be able to easily install unity project to run in their Oculus Ques
 
 ## Conceptual Design
 
-This project was conceptualized extensively in this [report](Concept_Design_Paper.pdf)
+This project was conceptualized extensively in this [report](Concept_Design_Paper.pdf).
+
+## Background
+
+This project's main solution was identified extensively in this [report](Identify_and_Define_a_Problem.pdf)
