@@ -19,3 +19,13 @@ This project was conceptualized extensively in this [report](Concept_Design_Pape
 ## Background
 
 This project's main solution was identified extensively in this [report](Identify_and_Define_a_Problem.pdf)
+
+## Required Resources
+
+o Experience in Unity Engine
+
+o Access to a Oculus Quest 2 and Oculus Link Cable
+
+o Access to a high performance gaming computer (GTX 1660/Radeon RX 590 minimum) 
+
+o Access to ample physical space to move around environment
