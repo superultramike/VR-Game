@@ -14,4 +14,4 @@ Users should be able to easily install unity project to run in their Oculus Ques
 
 ## Conceptual Design
 
-This project was conceptualized extensively in this [report](VR-Game/Concept-Design-Paper.pdf)
+This project was conceptualized extensively in this [report](VR-Game/Concept Design Paper.pdf)
