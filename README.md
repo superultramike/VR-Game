@@ -1,6 +1,4 @@
-<div align="center">
 # Customizable VR Therapy Environment
-</div>
 
 ## Keywords
 
