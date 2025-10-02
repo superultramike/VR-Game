@@ -22,10 +22,14 @@ This project's main solution was identified extensively in this [report](Identif
 
 ## Required Resources
 
-o Experience in Unity Engine
+o Experience in Unity Engine (editor version 2020.3.26f1)
 
 o Access to a Oculus Quest 2 and Oculus Link Cable
 
 o Access to a high performance gaming computer (GTX 1660/Radeon RX 590 minimum) 
 
 o Access to ample physical space to move around environment
+
+## Live Video demo
+
+https://youtu.be/d2dChKUb08c
